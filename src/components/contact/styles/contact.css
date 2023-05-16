@@ -1,0 +1,8 @@
+.contact{
+    min-height: 500px;
+    width: 100%;
+    background-color: rgb(153, 6, 6);   
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,96 @@
+.projects{
+    background-color: #c9c9c936;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.projects__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    overflow-y: scroll;
+    width: 100%;
+    max-width: 900px;
+    max-height: 550px;
+}
+
+.projects__content::-webkit-scrollbar, .projects__content::-webkit-scrollbar-thumb {
+    width: 8px;
+    height: calc(100% / 3);
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px; 
+    background: rgb(105, 105, 105); 
+    border-radius: 10px;
+    
+}
+
+.projects__content::-webkit-scrollbar-track{
+    background-color: rgb(56, 56, 56);
+}
+
+.projects__content::-webkit-scrollbar-thumb:hover{
+    background-color: rgb(168, 166, 166);
+}
+
+.content__img{
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0px 4px 7px #1f1f1f;
+}
+
+.video{
+    width: 100%;
+}
+
+.project{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 1em;
+    margin: 2em 0;
+    color: #7c7c7c;
+    font-weight: 500;
+    line-height: 1.3rem;
+}
+
+.project__descriction{
+
+}
+
+/*proyectos*/
+
+.projects__title{
+
+}
+
+.store-shirt{
+
+}
+
+.weather-app{
+
+}
+
+.pokedex{
+
+}
+
+.lucky-cookies{
+
+}
+
+.life-tips{
+
+}
+
+.dataBase-users{
+
+}
+
+.locatons-rick-and-moty{
+
+}
+
+.e-commerce{
+
+}

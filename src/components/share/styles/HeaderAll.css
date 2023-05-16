@@ -1,0 +1,42 @@
+.app__header{
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.app__logo{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-image: radial-gradient(rgba(165, 10, 10, 0.527) 0%, rgb(0, 0, 0) 100%);
+    width: 100px;
+    height: 50px;
+}
+
+.logo{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: rgba(204, 15, 15, 0.185);
+    color: rgb(228, 220, 220);
+    text-shadow: 0  5px 5px rgb(134, 30, 30);
+}
+
+.app__name{
+    width: 100px;
+}
+
+.app__name > p{
+    color: brown;
+    font-size: 1.3rem;
+    text-align: end;
+}
+
+.app__name > p:hover{
+    text-decoration-color: rgba(204, 15, 15, 0.185);
+    color: rgb(228, 220, 220);
+    text-shadow: -5px  3px 5px rgb(206, 14, 14);
+}
+
+
