@@ -2,6 +2,8 @@ import React from 'react'
 
 const Emeil = () => {
   return (
+    <>
+    
     <form className='form__contact' method='POST' data-netlify="true">
 
         <div className='form__name'>
@@ -23,6 +25,7 @@ const Emeil = () => {
         <button className='fomr__btn' type="submit">Enviar</button>
 
     </form>
+    </>
   )
 }
 
