@@ -3,7 +3,6 @@ import React from 'react'
 const Emeil = () => {
   return (
     <form className='form__contact' name='form__contact' netlify>
-
         
             <label className='form__label' htmlFor="name">Name</label>
             <input className='form__input' type="text" id='name' name='name' placeholder='Name'/>
@@ -19,7 +18,7 @@ const Emeil = () => {
             <textarea className='form__text' name="message" id="message" cols="30" rows="10" placeholder='Message'></textarea>
         <br />
 
-        <input className='fomr__btn' type="submit" value="Enviar" />
+        <button className='fomr__btn' type="submit" value="Enviar" />
 
     </form>
   )
