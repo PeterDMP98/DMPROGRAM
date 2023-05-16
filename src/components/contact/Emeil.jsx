@@ -4,7 +4,7 @@ const Emeil = () => {
   return (
     <>
     
-    <form className='form__contact' method='POST' data-netlify="true">
+    <form className='form__contact' method='POST' netlify>
 
         <div className='form__name'>
             <label className='form__label' htmlFor="name">Name</label>
