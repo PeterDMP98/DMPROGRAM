@@ -2,7 +2,7 @@ import React from 'react'
 
 const Emeil = () => {
   return (
-    <form className='form__contact' action="https://formsubmit.co/peter.dmp.ca@gmailcom" method='POST'>
+    <form className='form__contact' action="https://formsubmit.co/peter.dmp.ca@gmail.com" method='POST'>
 
         <div className='form__name'>
             <label className='form__label' htmlFor="name">Name</label>
