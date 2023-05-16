@@ -2,7 +2,7 @@ import React from 'react'
 
 const Emeil = () => {
   return (
-    <form className='form__contact' netlify>
+    <form className='form__contact' data-netlify="true">
 
         <div className='form__name'>
             <label className='form__label' htmlFor="name">Name</label>
