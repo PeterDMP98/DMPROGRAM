@@ -1,8 +1,29 @@
-.contact{
-    min-height: 500px;
+.contact {
     width: 100%;
-    background-color: rgb(153, 6, 6);   
-    display: flex; 
+    max-width: 400px;
+    background-color: rgba(105, 104, 104, 0.479);
+    display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    margin: 1em auto;
+    padding: 0.5em;
+    border-radius: 1em;
+    box-shadow: 0 2px 10px 1px #fff;
+    gap: 1em;
 }
+
+.contact__title {}
+
+.contact__link-phone {}
+
+.contact__link-whasapp {}
+
+.fa-square-phone, .fa-square-whatsapp {
+    font-size: 1.5rem;
+}
+
+.contact__phone, .contact__whatsapp {
+    margin-left: 1em;
+    font-size: 1.1rem;
+}
+

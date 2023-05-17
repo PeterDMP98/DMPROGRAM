@@ -1,0 +1,46 @@
+.form__contact {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.content-info {
+    
+}
+
+.form__label {
+    font-size: 1.3rem;
+}
+
+.form__input,
+.form__text {
+    width: 100%;
+    height: 30px;
+    border-radius: .5em;
+    border: none;
+    margin-top: 0.5em;
+}
+
+.form__message {
+    
+}
+
+.form__text {
+    height: 150px;
+}
+.form__btn {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1em 0;
+    padding: .5em;
+    border-radius: 0.5em;
+}
+
+.form__name {}
+
+.form__subject {}
+
+.form__email {}
+
+
+
