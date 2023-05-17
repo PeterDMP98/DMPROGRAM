@@ -10,7 +10,7 @@ const Proyects = () => {
         <div className='project store-shirt'>
           <h3 className='projects__title'>Store-shirt</h3>
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/store/inicio.png" alt="" />
+            <img className='img__pages' src="/images/store/inicio.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -22,7 +22,7 @@ const Proyects = () => {
           <h3 className='projects__title'>Weater App</h3>
           <div className='content__img'>
             <video className='video' autoPlay muted controls>
-              <source src="/public/images/weater-app/video-app.mp4" type="video/mp4" />
+              <source src="/images/weater-app/video-app.mp4" type="video/mp4" />
             </video>
           </div>
 
@@ -34,7 +34,7 @@ const Proyects = () => {
           <h3 className='projects__title'>Pokedex</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/pokedex/inicio.png" alt="" />
+            <img className='img__pages' src="/images/pokedex/inicio.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -44,7 +44,7 @@ const Proyects = () => {
           <h3 className='projects__title'>Lucky Cookies</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/luky-cookies/inicio.png" alt="" />
+            <img className='img__pages' src="/images/luky-cookies/inicio.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -55,7 +55,7 @@ const Proyects = () => {
           <h3 className='projects__title'>Life tips</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/life-tips/frase.png" alt="" />
+            <img className='img__pages' src="/images/life-tips/frase.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -66,7 +66,7 @@ const Proyects = () => {
           <h3 className='projects__title database'>Database Users</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/dataBase-user/usuario-creado.png" alt="" />
+            <img className='img__pages' src="/images/dataBase-user/usuario-creado.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -77,7 +77,7 @@ const Proyects = () => {
           <h3 className='projects__title'>Locatons de Rick and Moty</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/locations-rick-and-morty/inicio.png" alt="" />
+            <img className='img__pages' src="/images/locations-rick-and-morty/inicio.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>
@@ -88,7 +88,7 @@ const Proyects = () => {
           <h3 className='projects__title'>E-commerce</h3>
 
           <div className='content__img'>
-            <img className='img__pages' src="/public/images/e-commerce/home.png" alt="" />
+            <img className='img__pages' src="/images/e-commerce/home.png" alt="" />
           </div>
 
           <p className='project__descriction'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat vero velit expedita? Sed, delectus quos. Ea dolores maxime vitae dolorum? Adipisci illum illo consequatur tempore suscipit, modi tempora totam.</p>

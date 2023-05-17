@@ -38,6 +38,7 @@ button{
     border: 0;
     font-family: inherit;
     cursor: pointer;
+    color: inherit;
 }
 
 img{
