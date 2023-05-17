@@ -29,7 +29,7 @@ const Emeil = () => {
 
             {/* confifuracion de form */}
 
-            <input type="hidden" name='_next' value="http://localhost:2000/#/" />
+            <input type="hidden" name='_next' value="https://pedrocaraballo.netlify.app/#/" />
             <input type="hidden" name='_captcha' value='false' />
             <input type="hidden" name='_template' value="box"></input>
             
