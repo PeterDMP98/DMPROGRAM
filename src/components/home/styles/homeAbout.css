@@ -1,11 +1,12 @@
 .home-about {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    height: 100%;
     width: 100%;
     max-width: 500px;
     gap: 3em;
     padding-left: 2.5em;
-    
 }
 
 .home-about> h2 {

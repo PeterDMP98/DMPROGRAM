@@ -11,7 +11,7 @@
     overflow-y: scroll;
     width: 100%;
     max-width: 900px;
-    max-height: 550px;
+    height: calc(100vh - 25vh);
 }
 
 .projects__content::-webkit-scrollbar, .projects__content::-webkit-scrollbar-thumb {
