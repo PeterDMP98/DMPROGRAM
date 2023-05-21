@@ -20,6 +20,14 @@
     border-radius: .5em;
     border: none;
     margin-top: 0.5em;
+    background: var(--color-contact);
+
+}
+
+.form__input:focus,
+.form__text:focus {
+    filter: brightness(1.5);
+
 }
 
 .form__message {
@@ -36,12 +44,12 @@
     margin: 1em 0;
     padding: .5em;
     border-radius: 0.5em;
-    background-color: rgb(252, 48, 48);
+    background-color: var(--color-contact);
 }
 
 .form__btn:hover {
-    filter: brightness(1.4);
-    outline: 2px solid #000;
+    filter: brightness(1.2);
+    outline: 2px solid #ffffff;
 }
 
 .form__name {}

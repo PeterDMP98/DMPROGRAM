@@ -1,5 +1,5 @@
 import './App.css'
-import { Link, Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
@@ -12,8 +12,6 @@ import { useState } from 'react'
 function App() {
 
   const [navOpenClose, setNavOpenClose] = useState("navOpenClose")
-
-  console.log(navOpenClose);
 
 
   return (

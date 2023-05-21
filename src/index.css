@@ -1,3 +1,11 @@
+/*Root*/
+
+:root{
+    --color-Principal: #FF2B51;
+    --color-project: #10FFF1;
+    --color-contact: #494993;
+}
+
 /* ----RESET----*/
 /*importar tipo de letra fonts*/
 

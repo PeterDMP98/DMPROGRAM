@@ -28,7 +28,7 @@
 }
 
 .footer__designer span > span{
-    color: #FF2B51;
+    color: var(--color-Principal);
     font-weight: 600;
     font-size: 1.2rem;
 }

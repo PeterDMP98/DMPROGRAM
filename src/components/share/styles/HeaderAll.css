@@ -25,18 +25,35 @@
 
 .app__name{
     width: 100px;
+    cursor: pointer;
 }
 
 .app__name > p{
-    color: brown;
+    color: var(--color-Principal);
     font-size: 1.3rem;
     text-align: end;
 }
 
 .app__name > p:hover{
-    text-decoration-color: rgba(204, 15, 15, 0.185);
     color: rgb(228, 220, 220);
-    text-shadow: -5px  3px 5px rgb(206, 14, 14);
+    text-shadow: -5px  3px 3px rgb(221, 13, 13);
 }
 
 
+/*Funciones*/
+
+.portfolio__name > p{
+    color: var(--color-project);
+}
+.portfolio__name > p:hover{
+    color: rgb(228, 220, 220);
+    text-shadow: -5px  3px 3px var(--color-project);
+}
+
+.contact__name > p{
+    color: var(--color-contact);
+}
+.contact__name > p:hover{
+    color: rgb(228, 220, 220);
+    text-shadow: -5px  3px 3px var(--color-contact);
+}

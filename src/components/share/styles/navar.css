@@ -2,12 +2,13 @@
     position: fixed;
     left: 0;
     width: 100%;
-    height: calc(100% - 20%);
+    height: calc(100% - 10%);
     background-color: #000;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     padding: 1em 0 1em 0;
+    z-index: 10;
 }
 
 .nav__content {
@@ -27,7 +28,7 @@
 }
 
 .app__item:hover {
-    color: red;
+    color: var(--color-Principal);
 }
 
 .nav__social {
@@ -48,7 +49,7 @@
 }
 
 .social:hover {
-    color: red;
+    color: var(--color-Principal);
     border-radius: 50%;
     outline: 2px solid #fff;
 }
